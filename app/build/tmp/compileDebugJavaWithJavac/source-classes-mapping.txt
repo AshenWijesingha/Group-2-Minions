@@ -1,0 +1,26 @@
+com/example/taskmanagement/BuildConfig.java
+ com.example.taskmanagement.BuildConfig
+com/example/taskmanagement/AddNewTask.java
+ com.example.taskmanagement.AddNewTask
+ com.example.taskmanagement.AddNewTask$1
+ com.example.taskmanagement.AddNewTask$2
+com/example/taskmanagement/SplashActivity.java
+ com.example.taskmanagement.SplashActivity
+ com.example.taskmanagement.SplashActivity$1
+com/example/taskmanagement/RecyclerItemTouchHelper.java
+ com.example.taskmanagement.RecyclerItemTouchHelper
+ com.example.taskmanagement.RecyclerItemTouchHelper$1
+ com.example.taskmanagement.RecyclerItemTouchHelper$2
+com/example/taskmanagement/Utils/DatabaseHandler.java
+ com.example.taskmanagement.Utils.DatabaseHandler
+com/example/taskmanagement/Adapter/ToDoAdapter.java
+ com.example.taskmanagement.Adapter.ToDoAdapter
+ com.example.taskmanagement.Adapter.ToDoAdapter$1
+ com.example.taskmanagement.Adapter.ToDoAdapter$ViewHolder
+com/example/taskmanagement/DialogCloseListener.java
+ com.example.taskmanagement.DialogCloseListener
+com/example/taskmanagement/MainActivity.java
+ com.example.taskmanagement.MainActivity
+ com.example.taskmanagement.MainActivity$1
+com/example/taskmanagement/Model/ToDoModel.java
+ com.example.taskmanagement.Model.ToDoModel
