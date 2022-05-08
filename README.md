@@ -14,4 +14,4 @@ Mobile Application Development Project - Year 2 Semester 2
 This is a application which helps to manage user's payments easily with the guidance.
 
 #### Technologies used :
-Android Studio, Java and SQL Lite Used as Technologies
+Android Studio, Java and SQL Lite Used as Technologie
