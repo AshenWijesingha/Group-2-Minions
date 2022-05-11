@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD Project</string>
+    <string name="my_bills">My Bills</string>
+    <string name="todo">TODO</string>
+    <string name="save">newTaskBtn</string>
+    <string name="new_task">New Task</string>
+    <string name="newTaskButton">newTaskButton</string>
+    <string name="Save">Save</string>
+</resources>
