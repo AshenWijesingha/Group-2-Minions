@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".adddata">
+
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_name"
+        android:textSize="20sp"
+        android:hint="Bill Name"
+        android:layout_marginBottom="15dp"
+        android:textColor="#000"/>
+
+    <EditText
+        android:id="@+id/add_course"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:hint="Enter Bill Date"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_email"
+        android:textSize="20sp"
+        android:hint="Enter Bill Amount"
+        android:layout_marginBottom="15dp"
+        android:textColor="#000"/>
+
+
+    <Button
+        android:id="@+id/add_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:shadowColor="@color/colorPrimary"
+        android:text="Save Bill"
+        android:textSize="20sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_back"
+        android:textSize="20sp"
+        android:text="Back"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

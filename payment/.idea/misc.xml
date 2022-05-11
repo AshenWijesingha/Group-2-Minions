@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dushani Wijesinghe/Desktop/New folder/payment/IT20661342/demofirebasetorecycler/app/src/main/res/layout/activity_adddata.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Dushani Wijesinghe/Desktop/New folder/payment/IT20661342/demofirebasetorecycler/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Dushani Wijesinghe/Desktop/New folder/payment/IT20661342/demofirebasetorecycler/app/src/main/res/layout/dialogcontent.xml" value="0.1" />
+        <entry key="..\:/Users/Dushani Wijesinghe/Desktop/New folder/payment/IT20661342/demofirebasetorecycler/app/src/main/res/layout/singlerow.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
